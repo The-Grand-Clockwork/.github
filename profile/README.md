@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are just setting up and getting used to the github environment. More information to come.
+
 <!--
 
 **Here are some ideas to get you started:**
