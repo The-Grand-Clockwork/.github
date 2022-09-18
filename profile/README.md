@@ -6,7 +6,7 @@ This May (2022), I decided to get back into it, but rather than software develop
 
 Well, I started it, and from there, I've picked up other courses along the way. You can visit my [YouTube channel](https://www.youtube.com/watch?v=AEQ0rpDtVDw&list=PL1GwWULXipdAjLh7scwlJ_av81Hg0O9SO) to see the progress on my GameDev journey so far, with more on the way.
 
-So far, I remain a one-person team working my way through online courses and tutorials while working on a small project in private, though I'm hoping to eventually add others onto my team. My partner-in-crime, Sockling, is currently going through his own series of life events, though hopefully he'll be joining me soon.
+So far, I remain a one-person team working my way through online courses and tutorials while working on a small project in private, though I'm hoping to eventually add others onto my team. My partner-in-crime is currently going through his own series of life events, though hopefully he'll be joining me soon.
 
 <!--
 
