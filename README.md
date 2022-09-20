@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Back in 2019, I took a full-stack developer course, but as I was wrapping up, my father wound up in the hospital, and I wound up taking time away from my studies to help care for him. Then COVID hit, and I wound up taking MORE time away, because I wasn't sure how at risk he'd be.
+Back in 2019, I took a full-stack developer course, but as I was wrapping up, my father wound up in the hospital (stroke, other CV issues), and I wound up taking time away from my studies to help care for him. Then COVID hit, and I wound up taking MORE time away, because I wasn't sure how at risk he'd be (turns out, it was more like a cold for him despite his various risk factors).
 
 This May (2022), I decided to get back into it, but rather than software development, I decided to pursue game development. My sister had bought me the Unity RPG Core Combat Course on Udemy a few years back, but because of the things going on (and my general distrust of potential internet scams), I never got around to it.
 
-Well, I started it, and from there, I've picked up other courses along the way. You can visit my [YouTube channel](https://www.youtube.com/watch?v=AEQ0rpDtVDw&list=PL1GwWULXipdAjLh7scwlJ_av81Hg0O9SO) to see the progress on my GameDev journey so far, with more on the way.
+Well, I started it, and from there, I've picked up other courses along the way. You can visit my [Facebook page](https://www.facebook.com/profile.php?id=100085804725423) to see the progress on my GameDev journey so far, with more on the way.
 
 So far, I remain a one-person team working my way through online courses and tutorials while working on a small project in private, though I'm hoping to eventually add others onto my team. My partner-in-crime is currently going through his own series of life events, though hopefully he'll be joining me soon.
 
